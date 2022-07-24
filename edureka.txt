@@ -1,2 +1,4 @@
-hii this is akash checking with git 
+hi This is akash checking with git 
+
+and edited and added text 
 
